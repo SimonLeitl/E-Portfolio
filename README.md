@@ -24,7 +24,7 @@ So after this steps you can handle your code quality and see what you can do bet
 Here you can find sonarcloud. https://sonarcloud.io/ 
 To use sonarcloud, you can take your github account to link it with sonarcloud. 
 
-![Login](Images/login.jpeg)
+![Login](images/login.jpeg)
 
 In our case just click the link to github to get access.
 
@@ -36,11 +36,11 @@ If the repository or project is not yours, fork it in your account to have all p
 
 When you see the following picture, click to "Analyze new Project" 
 
-![Log-in](Images/Screenshot3.png)
+![Log-in](images/Screenshot3.png)
 
 After that you will come to the page of selecting the Repository you would like to analyze.
 
-![Log-in](Images/Screenshot4.png)
+![Log-in](images/Screenshot4.png)
 
 If you have checked the repository, click on the right Set Up button to continue the steps. 
 
@@ -48,15 +48,15 @@ If you have checked the repository, click on the right Set Up button to continue
 
 In the following picture you can see how to make the analyzation running. 
 
-![Log-in](Images/Screenshot5.png)
+![Log-in](images/Screenshot5.png)
 
 Now you generate an Token to identify your repository of analyzation.
 
-![Log-in](Images/Screenshot7.png)
+![Log-in](images/Screenshot7.png)
 
 After that you have to guess which components your project have. (programming language, or build type)
 
-![Log-in](Images/Screenshot8.png)
+![Log-in](images/Screenshot8.png)
 Go to your IDE.
 Then you need to add the plugin line to your global gradle, if you use gradle. With maven just use the other option.
 
